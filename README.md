@@ -1,4 +1,4 @@
-# Causal Impact of Weekend Staffing Reallocation on Conversion Rate
+# Causal Impact of Weekend Staffing Reallocation on Conversion Rate 
 
 **Domain:** Retail operations / HR planning  
 **Method:** Difference-in-Differences (DiD) with Wasserstein-matched control group  
