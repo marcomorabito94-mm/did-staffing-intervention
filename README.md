@@ -4,7 +4,7 @@
 **Method:** Difference-in-Differences (DiD) with Wasserstein-matched control group  
 **Stack:** Python · pandas · numpy · seaborn · matplotlib · scipy · scikit-learn
 
-> Follow-up to [`staffing-conversion-rate-analysis`](../staffing-conversion-rate-analysis), which identified the staffing→CR correlation and the store-level opportunity.
+> Follow-up to [`staffing-conversion-rate-analysis`](https://github.com/marcomorabito94-mm/staffing-conversion-rate-analysis), which identified the staffing→CR correlation and the store-level opportunity.
 
 ---
 
