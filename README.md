@@ -4,6 +4,8 @@
 **Method:** Difference-in-Differences (DiD) with Wasserstein-matched control group  
 **Stack:** Python · pandas · numpy · seaborn · matplotlib · scipy · scikit-learn
 
+> **Note on data** The datasets in `data/` are **synthetic**. They were generated to replicate the structure, distributions and statistical patterns of a real Difference-in-Differences analysis — without exposing any proprietary or confidential information.
+
 > Follow-up to [`staffing-conversion-rate-analysis`](https://github.com/marcomorabito94-mm/staffing-conversion-rate-analysis), which identified the staffing→CR correlation and the store-level opportunity.
 
 ---
